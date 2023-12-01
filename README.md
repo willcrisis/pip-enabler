@@ -2,6 +2,10 @@
 
 A Chrome extension to remove `disablepictureinpicture` attribute from videos
 
+![Image showing how the Chrome controls looks before the extension is clicked](before.jpg)
+
+![Image showing how the Chrome controls looks after the extension is clicked](after.jpg)
+
 ## Installing
 
 - Clone this repo anywhere
