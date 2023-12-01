@@ -1,0 +1,27 @@
+{
+  "name": "pip-enabler",
+  "version": "1.0.0",
+  "description": "Enable Picture-in-Picture everywhere",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willcrisis/pip-enabler.git"
+  },
+  "keywords": [
+    "pip",
+    "picture-in-picture",
+    "chrome",
+    "extension"
+  ],
+  "author": "Willian Krause <krause.willian@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willcrisis/pip-enabler/issues"
+  },
+  "homepage": "https://github.com/willcrisis/pip-enabler#readme",
+  "dependencies": {
+    "archiver": "^6.0.1"
+  }
+}
